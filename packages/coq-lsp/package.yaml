@@ -10,7 +10,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:opam/coq-lsp@0.1.8+8.20
+  id: pkg:opam/coq-lsp@0.2.2+8.20
 
 bin:
   coq-lsp: opam:coq-lsp

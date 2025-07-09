@@ -1,16 +1,16 @@
 ---
 name: coq-lsp
-description: Visual Studio Code Extension and Language Server Protocol for coq
+description: Visual Studio Code Extension and Language Server Protocol for rocq
 homepage: https://github.com/ejgallego/coq-lsp/
 licenses:
   - LGPL-2.1-or-later
 languages:
-  - Coq
+  - Rocq
 categories:
   - LSP
 
 source:
-  id: pkg:opam/coq-lsp@0.1.8+8.19
+  id: pkg:opam/coq-lsp@0.2.3+9.0
 
 bin:
   coq-lsp: opam:coq-lsp
